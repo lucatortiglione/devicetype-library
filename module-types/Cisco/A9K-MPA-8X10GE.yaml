@@ -1,0 +1,48 @@
+---
+manufacturer: Cisco
+model: A9K-MPA-8X10GE
+part_number: A9K-MPA-8X10GE
+description: ASR 9000 8-port 10-Gigabit Ethernet Modular Port Adapter, requires SFP+ optics
+weight: 1.75
+weight_unit: lb
+interfaces:
+  - name: TenGigE{module}/{module}/0
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '0'
+  - name: TenGigE{module}/{module}/1
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '1'
+  - name: TenGigE{module}/{module}/2
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '2'
+  - name: TenGigE{module}/{module}/3
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '3'
+  - name: TenGigE{module}/{module}/4
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '4'
+  - name: TenGigE{module}/{module}/5
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '5'
+  - name: TenGigE{module}/{module}/6
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '6'
+  - name: TenGigE{module}/{module}/7
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: '7'

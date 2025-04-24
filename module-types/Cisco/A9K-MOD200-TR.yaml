@@ -1,0 +1,12 @@
+---
+manufacturer: Cisco
+model: A9K-MOD200-TR
+part_number: A9K-MOD200-TR
+description: 200G Modular Linecard, Packet Transport Optimized
+module-bays:
+  - name: Subslot 0
+    label: '0'
+    position: '0'
+  - name: Subslot 1
+    label: '1'
+    position: '1'
